@@ -7,7 +7,7 @@ _Position: graduate student_
 -   🔭 I’m currently working on **AI4Phys** (Artificial Intelligence For Physics)
 -   🌱 I’m currently learning CS basic subject (my undergraduate degree is physics not CS)
 
-[![FlowerCA77's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FlowerCA77&theme=dracula)](https://github.com/FlowerCA77/github-readme-activity-graph)
+[![FlowerCA77's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FlowerCA77&theme=react)](https://github.com/FlowerCA77/github-readme-activity-graph)
 
 ### 1. Learning & Skills
 
@@ -96,10 +96,10 @@ _Position: graduate student_
 
 _I'm freshman in CS_
 
-![FlowerCA77's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlowerCA77&count_private=true&show_icons=true&theme=dracula)
+![FlowerCA77's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlowerCA77&count_private=true&show_icons=true)
 
 ### 3. My frequently-used language
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlowerCA77&hide=tex,html,jupyter%20notebook&langs_count=6&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlowerCA77&hide=tex,html,jupyter%20notebook&langs_count=6)
 
 _statistical data graph powered by [anuraghazra](https://github.com/anuraghazra)_
