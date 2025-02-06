@@ -15,6 +15,6 @@ _i'm freshman in CS_
 
 ### 2. My frequently-used language
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlowerCA77&hide=html,jupyter%20notebook&langs_count=6&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlowerCA77&hide=tex,html,jupyter%20notebook&langs_count=6&theme=dracula)
 
 _statistical data graph powered by [anuraghazra](https://github.com/anuraghazra)_
