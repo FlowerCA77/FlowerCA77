@@ -1,6 +1,6 @@
 ## Welcome to my github site 👋
 
-_Organization: [Huazhong University of Science and Technology](https://hust.edu.cn/), [School of Physics](https://phys.hust.edu.cn/)_
+_Organization: [Huazhong University of Science and Technology](https://english.hust.edu.cn/), [School of Physics](http://english.phys.hust.edu.cn/)_
 
 _Position: graduate student_
 
