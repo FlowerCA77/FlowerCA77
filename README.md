@@ -100,6 +100,8 @@ _I'm freshman in CS_
 
 ### 3. My frequently-used language
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlowerCA77&hide=tex,html,jupyter%20notebook&langs_count=6)
+_Include forked repos, details for me in `Learning & Skills`_
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlowerCA77&size_weight=0.5&count_weight=0.5&hide=tex,roff,html,css,scss,jupyter%20notebook,makefile&layout=compact&langs_count=20)
 
 _statistical data graph powered by [anuraghazra](https://github.com/anuraghazra)_
