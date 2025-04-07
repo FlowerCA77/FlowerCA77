@@ -1,10 +1,10 @@
 ## Welcome to my github site 👋
 
-_Organization: [Huazhong University of Science and Technology](https://english.hust.edu.cn/), [School of Physics](http://english.phys.hust.edu.cn/)_
+_Organization: [National Precise Gravity Measurement Facility](https://ggg.hust.edu.cn/) [School of Physics](http://english.phys.hust.edu.cn/), [Huazhong University of Science and Technology](https://english.hust.edu.cn/),
 
 _Position: graduate student_
 
--   🔭 I’m currently working on **AI4Phys** (Artificial Intelligence For Physics)
+-   🔭 I’m currently working on **Gravitional Wave Detecting** and **Quantum Computation and Quantum Information**
 -   🌱 I’m currently learning CS basic subject (my undergraduate degree is physics not CS)
 
 [![FlowerCA77's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FlowerCA77&theme=react)](https://github.com/FlowerCA77/github-readme-activity-graph)
