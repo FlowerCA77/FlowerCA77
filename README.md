@@ -1,6 +1,6 @@
 ## Welcome to my github site 👋
 
-_Organization: [National Precise Gravity Measurement Facility](https://ggg.hust.edu.cn/), [School of Physics](http://english.phys.hust.edu.cn/), [Huazhong University of Science and Technology](https://english.hust.edu.cn/),
+_Organization: [National Precise Gravity Measurement Facility](http://pgmf.hust.edu.cn/), [Center for Gravitational Experiments](https://ggg.hust.edu.cn/), [School of Physics](http://english.phys.hust.edu.cn/), [Huazhong University of Science and Technology](https://english.hust.edu.cn/),
 
 _Position: graduate student_
 
