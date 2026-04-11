@@ -15,6 +15,13 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      - name: Clean old files
+        run: |
+          rm -f profile/stats.svg
+          rm -f profile/top-langs.svg
+          rm -f profile/pin-readme-tools-github-readme-stats.svg
+      
+
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
