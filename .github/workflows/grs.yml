@@ -14,13 +14,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
-
-      - name: Clean old files
-        run: |
-          rm -f profile/stats.svg
-          rm -f profile/top-langs.svg
-          rm -f profile/pin-readme-tools-github-readme-stats.svg
-      
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.PAT }}
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
@@ -50,7 +46,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --no-rebase origin master
           git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
           git commit -m "Update README cards" || exit 0
+          git pull --rebase origin master
           git push origin master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
